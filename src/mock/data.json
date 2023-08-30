@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Visit Paris",
+    "priceUsd": 67.08,
+    "priceEuro": 57.02,
+    "image": "https://picsum.photos/200/200?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Visit Rome",
+    "priceUsd": 98.37,
+    "priceEuro": 83.61,
+    "image": "https://picsum.photos/200/200?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Visit New York",
+    "priceUsd": 66.75,
+    "priceEuro": 56.74,
+    "image": "https://picsum.photos/200/200?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Visit Tokyo",
+    "priceUsd": 106.01,
+    "priceEuro": 90.11,
+    "image": "https://picsum.photos/200/200?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Visit London",
+    "priceUsd": 61.49,
+    "priceEuro": 52.27,
+    "image": "https://picsum.photos/200/200?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Visit Sydney",
+    "priceUsd": 123.39,
+    "priceEuro": 104.88,
+    "image": "https://picsum.photos/200/200?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Visit Bangkok",
+    "priceUsd": 51.9,
+    "priceEuro": 44.11,
+    "image": "https://picsum.photos/200/200?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Visit Berlin",
+    "priceUsd": 108.48,
+    "priceEuro": 92.21,
+    "image": "https://picsum.photos/200/200?random=8"
+  },
+  {
+    "id": 9,
+    "title": "Visit Cape Town",
+    "priceUsd": 86.2,
+    "priceEuro": 73.27,
+    "image": "https://picsum.photos/200/200?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Visit Barcelona",
+    "priceUsd": 124.48,
+    "priceEuro": 105.81,
+    "image": "https://picsum.photos/200/200?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Visit Rio de Janeiro",
+    "priceUsd": 78.6,
+    "priceEuro": 66.81,
+    "image": "https://picsum.photos/200/200?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Visit Amsterdam",
+    "priceUsd": 113.01,
+    "priceEuro": 96.06,
+    "image": "https://picsum.photos/200/200?random=12"
+  },
+  {
+    "id": 13,
+    "title": "Visit Istanbul",
+    "priceUsd": 92.22,
+    "priceEuro": 78.39,
+    "image": "https://picsum.photos/200/200?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Visit Hong Kong",
+    "priceUsd": 147.66,
+    "priceEuro": 125.51,
+    "image": "https://picsum.photos/200/200?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Visit Dubai",
+    "priceUsd": 75.08,
+    "priceEuro": 63.82,
+    "image": "https://picsum.photos/200/200?random=15"
+  },
+  {
+    "id": 16,
+    "title": "Visit Los Angeles",
+    "priceUsd": 52.05,
+    "priceEuro": 44.24,
+    "image": "https://picsum.photos/200/200?random=16"
+  },
+  {
+    "id": 17,
+    "title": "Visit Vienna",
+    "priceUsd": 82.4,
+    "priceEuro": 70.04,
+    "image": "https://picsum.photos/200/200?random=17"
+  },
+  {
+    "id": 18,
+    "title": "Visit Shanghai",
+    "priceUsd": 84.22,
+    "priceEuro": 71.59,
+    "image": "https://picsum.photos/200/200?random=18"
+  },
+  {
+    "id": 19,
+    "title": "Visit Prague",
+    "priceUsd": 97.74,
+    "priceEuro": 83.08,
+    "image": "https://picsum.photos/200/200?random=19"
+  },
+  {
+    "id": 20,
+    "title": "Visit Mexico City",
+    "priceUsd": 82.99,
+    "priceEuro": 70.54,
+    "image": "https://picsum.photos/200/200?random=20"
+  }
+]
